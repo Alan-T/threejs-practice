@@ -1,0 +1,22 @@
+{
+  "name": "threejs-practice",
+  "version": "1.0.0",
+  "description": "threejs 学习和练习demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-T/threejs-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-T/threejs-practice/issues"
+  },
+  "homepage": "https://github.com/Alan-T/threejs-practice#readme",
+  "dependencies": {
+    "three": "^0.153.0"
+  }
+}
